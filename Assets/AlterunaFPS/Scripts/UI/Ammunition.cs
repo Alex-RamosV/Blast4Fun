@@ -8,6 +8,7 @@ public partial class Ammunition : MonoBehaviour
     TMP_Text textAmmo;
     private GameObject currentPlayer;
 
+    //Use this for Offline Gameplay
     //[SerializeField]
     //PlayerController playerController;
 
@@ -18,24 +19,8 @@ public partial class Ammunition : MonoBehaviour
         //print(playerController.GunMagazineSize);
     }
 
-    void Start()
-    {
-        /*
-        currentPlayer = GameObject.FindGameObjectWithTag("Player");
-
-        if (currentPlayer != null)
-        {
-            Debug.Log("Player fouind: " + currentPlayer.name);
-        }
-        else
-        {
-            Debug.LogError("Player not found!");
-        }
-        */
-    }
-
     void Update()
-        {
+    {
         
         currentPlayer = GameObject.FindGameObjectWithTag("Player");
 
@@ -51,4 +36,4 @@ public partial class Ammunition : MonoBehaviour
         }
 
     }
-    }
+}
