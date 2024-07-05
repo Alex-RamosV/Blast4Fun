@@ -11,11 +11,11 @@ namespace AlterunaFPS
 	[RequireComponent(typeof(CharacterController), typeof(InputSynchronizable), typeof(Health))]
 	public partial class PlayerController : Synchronizable
 	{
-		PlayerController instance;
+		//PlayerController instance;
 
         private void Awake()
         {
-            instance = this;
+            //instance = this;
             _controller = GetComponent<CharacterController>();
         }
 

@@ -1,35 +1,54 @@
 using UnityEngine;
 using TMPro;
+using AlterunaFPS;
 
-namespace AlterunaFPS
-{
-    public partial class Ammunition : MonoBehaviour
+public partial class Ammunition : MonoBehaviour
     {
-        TMP_Text textAmmo;
-        [SerializeField]
-        PlayerController playerController;
+    // Start variables
+    TMP_Text textAmmo;
+    private GameObject currentPlayer;
 
-        void Awake()
-        {
-            textAmmo = GetComponent<TMP_Text>();
+    //[SerializeField]
+    //PlayerController playerController;
 
-            playerController = GetComponent<PlayerController>();
-            GameObject gameObjectPlayer = GameObject.FindGameObjectWithTag("Player");
-            if (playerController == null)
-            {
-                Debug.LogError("PlayerController component not found on the GameObject.");  
-            }
-            //textAmmo = GetComponent<TMP_Text>();
-            //playerController = GetComponent<PlayerController>();
-        }
-
-        void Update()
-        {
-            if (textAmmo != null && playerController != null)
-            {
-                textAmmo.text = playerController._gunMagazine + "/" + playerController.GunMagazineSize;
-            }
-            //textAmmo.text = playerController._gunMagazine + "/" + playerController.GunMagazineSize;
-        }
+    void Awake()
+    {
+        textAmmo = GetComponent<TMP_Text>();
+        //print(playerController.GunMagazineSize);
+        //print(playerController.GunMagazineSize);
     }
-}
+
+    void Start()
+    {
+        /*
+        currentPlayer = GameObject.FindGameObjectWithTag("Player");
+
+        if (currentPlayer != null)
+        {
+            Debug.Log("Player fouind: " + currentPlayer.name);
+        }
+        else
+        {
+            Debug.LogError("Player not found!");
+        }
+        */
+    }
+
+    void Update()
+        {
+        
+        currentPlayer = GameObject.FindGameObjectWithTag("Player");
+
+        if (currentPlayer != null)
+        {
+            Debug.Log("Player fouind: " + currentPlayer.name);
+            //textAmmo.text = currentPlayer._gunMagazine + "/" + playerController.GunMagazineSize;
+            textAmmo.text = currentPlayer.GetComponent<PlayerController>()._gunMagazine + "/" + currentPlayer.GetComponent<PlayerController>().GunMagazineSize;
+        }
+        else
+        {
+            Debug.LogError("Player not found!");
+        }
+
+    }
+    }

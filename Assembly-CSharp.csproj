@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{32C3BDE6-E125-3128-82C1-25D0441455A3}</ProjectGuid>
+    <ProjectGuid>{76A7FA0B-6804-3517-BAD6-D1692E090CAC}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -66,7 +66,6 @@
     <Compile Include="Assets\Alteruna\Prefabs\TextChat\TextChatCommands\CommandLeaveRoom.cs" />
     <Compile Include="Assets\Alteruna\Prefabs\RoomBrowser\Scripts\CustomRoomInfo.cs" />
     <Compile Include="Assets\AlterunaFPS\Scripts\UI\ScoreBoard.cs" />
-    <Compile Include="Assets\BarLife.cs" />
     <Compile Include="Assets\AlterunaFPS\Scripts\Health.cs" />
     <Compile Include="Assets\AlterunaFPS\Scripts\Player\PlayerController.Movment.cs" />
     <Compile Include="Assets\AlterunaFPS\Scripts\Player\PlayerController.Camera.cs" />
@@ -115,6 +114,7 @@
     <Compile Include="Assets\AlterunaFPS\Scripts\UI\GameInitRead.cs" />
     <Compile Include="Assets\AlterunaFPS\Scripts\UI\ResizeController.cs" />
     <Compile Include="Assets\AlterunaFPS\Scripts\UI\MainMenu.cs" />
+    <Compile Include="Assets\AlterunaFPS\Scripts\UI\BarLife.cs" />
     <Compile Include="Assets\Alteruna\Scripts\EnsureEventSystem.cs" />
     <Compile Include="Assets\AlterunaFPS\Scripts\Enemy\EnemyController.cs" />
     <Compile Include="Assets\Alteruna\Prefabs\RoomBrowser\Scripts\BaseRoomBrowser.cs" />
