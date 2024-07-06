@@ -43,7 +43,7 @@ namespace AlterunaFPS
 
 		// called when the local player is possessed by a client
 		// Called from the PlayerController.Networking
-		private void OnPossession()
+		public void OnPossession()
 		{
 			InitializeCamera();
 			InitializeHealth();

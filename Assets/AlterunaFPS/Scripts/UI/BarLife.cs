@@ -26,7 +26,8 @@ public class BarLife : MonoBehaviour
         if(currentPlayer != null )
         {
             Debug.Log("Player fouind: " + currentPlayer.name);
-            image.fillAmount = currentPlayer.GetComponent<PlayerController>().MaxHealth;
+            //image.fillAmount = currentPlayer.GetComponent<PlayerController>().MaxHealth / 100;
+            image.fillAmount = currentPlayer.GetComponent<Health>().HealthPoints / 100;
         }
         else
         {

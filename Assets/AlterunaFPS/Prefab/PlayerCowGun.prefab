@@ -2761,7 +2761,7 @@ MonoBehaviour:
   ZoomOutTime: 0.18
   _gunMagazine: 250
   MaxHealth: 100
-  Avatar: {fileID: 0}
+  Avatar: {fileID: 8601427866244821769}
   MoveSpeed: 2
   SprintSpeed: 5.335
   RotationSmoothTime: 0.12
