@@ -5,8 +5,7 @@ using UnityEngine.Events;
 using UnityEngine.Serialization;
 
 namespace AlterunaFPS
-{
-	
+{	
 	public class Health : MonoBehaviour
 	{
 

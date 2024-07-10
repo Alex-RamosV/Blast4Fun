@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Alex\\Documents\\GitHub\\Blast4Fun\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76A7FA0B-6804-3517-BAD6-D1692E090CAC}|Assembly-CSharp.csproj|F:\\Alex\\Documents\\GitHub\\Blast4Fun\\assets\\alterunafps\\scripts\\ui\\ammunition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76A7FA0B-6804-3517-BAD6-D1692E090CAC}|Assembly-CSharp.csproj|solutionrelative:assets\\alterunafps\\scripts\\ui\\ammunition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76A7FA0B-6804-3517-BAD6-D1692E090CAC}|Assembly-CSharp.csproj|F:\\Alex\\Documents\\GitHub\\Blast4Fun\\assets\\alterunafps\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76A7FA0B-6804-3517-BAD6-D1692E090CAC}|Assembly-CSharp.csproj|solutionrelative:assets\\alterunafps\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76A7FA0B-6804-3517-BAD6-D1692E090CAC}|Assembly-CSharp.csproj|f:\\alex\\documents\\github\\blast4fun\\assets\\alterunafps\\scripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76A7FA0B-6804-3517-BAD6-D1692E090CAC}|Assembly-CSharp.csproj|solutionrelative:assets\\alterunafps\\scripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76A7FA0B-6804-3517-BAD6-D1692E090CAC}|Assembly-CSharp.csproj|F:\\Alex\\Documents\\GitHub\\Blast4Fun\\assets\\alterunafps\\scripts\\player\\playercontroller.camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76A7FA0B-6804-3517-BAD6-D1692E090CAC}|Assembly-CSharp.csproj|solutionrelative:assets\\alterunafps\\scripts\\player\\playercontroller.camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76A7FA0B-6804-3517-BAD6-D1692E090CAC}|Assembly-CSharp.csproj|F:\\Alex\\Documents\\GitHub\\Blast4Fun\\assets\\alterunafps\\scripts\\player\\playercontroller.movment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76A7FA0B-6804-3517-BAD6-D1692E090CAC}|Assembly-CSharp.csproj|solutionrelative:assets\\alterunafps\\scripts\\player\\playercontroller.movment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76A7FA0B-6804-3517-BAD6-D1692E090CAC}|Assembly-CSharp.csproj|F:\\Alex\\Documents\\GitHub\\Blast4Fun\\assets\\alterunafps\\scripts\\player\\playercontroller.gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76A7FA0B-6804-3517-BAD6-D1692E090CAC}|Assembly-CSharp.csproj|solutionrelative:assets\\alterunafps\\scripts\\player\\playercontroller.gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76A7FA0B-6804-3517-BAD6-D1692E090CAC}|Assembly-CSharp.csproj|F:\\Alex\\Documents\\GitHub\\Blast4Fun\\assets\\alterunafps\\scripts\\player\\playercontroller.input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76A7FA0B-6804-3517-BAD6-D1692E090CAC}|Assembly-CSharp.csproj|solutionrelative:assets\\alterunafps\\scripts\\player\\playercontroller.input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76A7FA0B-6804-3517-BAD6-D1692E090CAC}|Assembly-CSharp.csproj|F:\\Alex\\Documents\\GitHub\\Blast4Fun\\assets\\alterunafps\\scripts\\player\\playercontroller.networking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76A7FA0B-6804-3517-BAD6-D1692E090CAC}|Assembly-CSharp.csproj|solutionrelative:assets\\alterunafps\\scripts\\player\\playercontroller.networking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76A7FA0B-6804-3517-BAD6-D1692E090CAC}|Assembly-CSharp.csproj|F:\\Alex\\Documents\\GitHub\\Blast4Fun\\assets\\alterunafps\\scripts\\ui\\barlife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76A7FA0B-6804-3517-BAD6-D1692E090CAC}|Assembly-CSharp.csproj|solutionrelative:assets\\alterunafps\\scripts\\ui\\barlife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76A7FA0B-6804-3517-BAD6-D1692E090CAC}|Assembly-CSharp.csproj|F:\\Alex\\Documents\\GitHub\\Blast4Fun\\assets\\alterunafps\\scripts\\ui\\menuinstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76A7FA0B-6804-3517-BAD6-D1692E090CAC}|Assembly-CSharp.csproj|solutionrelative:assets\\alterunafps\\scripts\\ui\\menuinstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ammunition.cs",
+              "DocumentMoniker": "F:\\Alex\\Documents\\GitHub\\Blast4Fun\\Assets\\AlterunaFPS\\Scripts\\UI\\Ammunition.cs",
+              "RelativeDocumentMoniker": "Assets\\AlterunaFPS\\Scripts\\UI\\Ammunition.cs",
+              "ToolTip": "F:\\Alex\\Documents\\GitHub\\Blast4Fun\\Assets\\AlterunaFPS\\Scripts\\UI\\Ammunition.cs",
+              "RelativeToolTip": "Assets\\AlterunaFPS\\Scripts\\UI\\Ammunition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T02:59:15.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Health.cs",
+              "DocumentMoniker": "F:\\Alex\\Documents\\GitHub\\Blast4Fun\\Assets\\AlterunaFPS\\Scripts\\Health.cs",
+              "RelativeDocumentMoniker": "Assets\\AlterunaFPS\\Scripts\\Health.cs",
+              "ToolTip": "F:\\Alex\\Documents\\GitHub\\Blast4Fun\\Assets\\AlterunaFPS\\Scripts\\Health.cs",
+              "RelativeToolTip": "Assets\\AlterunaFPS\\Scripts\\Health.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T02:25:45.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerController.Camera.cs",
+              "DocumentMoniker": "F:\\Alex\\Documents\\GitHub\\Blast4Fun\\Assets\\AlterunaFPS\\Scripts\\Player\\PlayerController.Camera.cs",
+              "RelativeDocumentMoniker": "Assets\\AlterunaFPS\\Scripts\\Player\\PlayerController.Camera.cs",
+              "ToolTip": "F:\\Alex\\Documents\\GitHub\\Blast4Fun\\Assets\\AlterunaFPS\\Scripts\\Player\\PlayerController.Camera.cs",
+              "RelativeToolTip": "Assets\\AlterunaFPS\\Scripts\\Player\\PlayerController.Camera.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAASwH4AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T04:16:29.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerController.Movment.cs",
+              "DocumentMoniker": "F:\\Alex\\Documents\\GitHub\\Blast4Fun\\Assets\\AlterunaFPS\\Scripts\\Player\\PlayerController.Movment.cs",
+              "RelativeDocumentMoniker": "Assets\\AlterunaFPS\\Scripts\\Player\\PlayerController.Movment.cs",
+              "ToolTip": "F:\\Alex\\Documents\\GitHub\\Blast4Fun\\Assets\\AlterunaFPS\\Scripts\\Player\\PlayerController.Movment.cs",
+              "RelativeToolTip": "Assets\\AlterunaFPS\\Scripts\\Player\\PlayerController.Movment.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAMwKQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T20:51:36.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BarLife.cs",
+              "DocumentMoniker": "F:\\Alex\\Documents\\GitHub\\Blast4Fun\\Assets\\AlterunaFPS\\Scripts\\UI\\BarLife.cs",
+              "RelativeDocumentMoniker": "Assets\\AlterunaFPS\\Scripts\\UI\\BarLife.cs",
+              "ToolTip": "F:\\Alex\\Documents\\GitHub\\Blast4Fun\\Assets\\AlterunaFPS\\Scripts\\UI\\BarLife.cs",
+              "RelativeToolTip": "Assets\\AlterunaFPS\\Scripts\\UI\\BarLife.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T19:00:13.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "F:\\Alex\\Documents\\GitHub\\Blast4Fun\\Assets\\AlterunaFPS\\Scripts\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\AlterunaFPS\\Scripts\\Player\\PlayerController.cs",
+              "ToolTip": "F:\\Alex\\Documents\\GitHub\\Blast4Fun\\Assets\\AlterunaFPS\\Scripts\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\AlterunaFPS\\Scripts\\Player\\PlayerController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T21:10:04.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerController.Networking.cs",
+              "DocumentMoniker": "F:\\Alex\\Documents\\GitHub\\Blast4Fun\\Assets\\AlterunaFPS\\Scripts\\Player\\PlayerController.Networking.cs",
+              "RelativeDocumentMoniker": "Assets\\AlterunaFPS\\Scripts\\Player\\PlayerController.Networking.cs",
+              "ToolTip": "F:\\Alex\\Documents\\GitHub\\Blast4Fun\\Assets\\AlterunaFPS\\Scripts\\Player\\PlayerController.Networking.cs",
+              "RelativeToolTip": "Assets\\AlterunaFPS\\Scripts\\Player\\PlayerController.Networking.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAUwBUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:46:42.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerController.Gun.cs",
+              "DocumentMoniker": "F:\\Alex\\Documents\\GitHub\\Blast4Fun\\Assets\\AlterunaFPS\\Scripts\\Player\\PlayerController.Gun.cs",
+              "RelativeDocumentMoniker": "Assets\\AlterunaFPS\\Scripts\\Player\\PlayerController.Gun.cs",
+              "ToolTip": "F:\\Alex\\Documents\\GitHub\\Blast4Fun\\Assets\\AlterunaFPS\\Scripts\\Player\\PlayerController.Gun.cs",
+              "RelativeToolTip": "Assets\\AlterunaFPS\\Scripts\\Player\\PlayerController.Gun.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAApwDEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T21:10:41.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerController.Input.cs",
+              "DocumentMoniker": "F:\\Alex\\Documents\\GitHub\\Blast4Fun\\Assets\\AlterunaFPS\\Scripts\\Player\\PlayerController.Input.cs",
+              "RelativeDocumentMoniker": "Assets\\AlterunaFPS\\Scripts\\Player\\PlayerController.Input.cs",
+              "ToolTip": "F:\\Alex\\Documents\\GitHub\\Blast4Fun\\Assets\\AlterunaFPS\\Scripts\\Player\\PlayerController.Input.cs",
+              "RelativeToolTip": "Assets\\AlterunaFPS\\Scripts\\Player\\PlayerController.Input.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T20:11:30.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MenuInstance.cs",
+              "DocumentMoniker": "F:\\Alex\\Documents\\GitHub\\Blast4Fun\\Assets\\AlterunaFPS\\Scripts\\UI\\MenuInstance.cs",
+              "RelativeDocumentMoniker": "Assets\\AlterunaFPS\\Scripts\\UI\\MenuInstance.cs",
+              "ToolTip": "F:\\Alex\\Documents\\GitHub\\Blast4Fun\\Assets\\AlterunaFPS\\Scripts\\UI\\MenuInstance.cs",
+              "RelativeToolTip": "Assets\\AlterunaFPS\\Scripts\\UI\\MenuInstance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T20:05:18.293Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

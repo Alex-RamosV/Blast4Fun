@@ -1,19 +1,22 @@
-using AlterunaFPS;
 using Alteruna;
+using AlterunaFPS;
+using Alteruna.Trinity;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class BarLife : MonoBehaviour
+public partial class BarLife : MonoBehaviour
 {
     // UI image to display health bar
     private Image image;
+
     // Reference to the current player GameObject
     private GameObject currentPlayer;
-    // Reference to the Health component
-    private Health currentHealth;
 
+    // Reference to the Health component
+    private Health currentHealth; 
+    
     void Awake()
     {
         // Initialize the Image component
@@ -28,31 +31,42 @@ public class BarLife : MonoBehaviour
         if (currentPlayer != null)
         {
             // Ensure the player has a Health component
-            currentHealth = currentPlayer.GetComponent<Health>();
+            currentHealth = currentPlayer.GetComponent<PlayerController>().Avatar.GetComponent<Health>();
+
+            // Old access to Component Health
+            //currentPlayer.GetComponent<Health>();
+            
             if (currentHealth != null)
             {
                 // Print the current health points to the console
                 print(currentHealth.HealthPoints);
-
+                
                 // Decrease health points if the Z key is pressed
                 if (Input.GetKey(KeyCode.Z))
                 {
                     currentHealth.HealthPoints--;
+                    // currentPlayer.GetComponent<PlayerController>().Avatar.GetComponent<Health>().HealthPoints--;
+                    // currentHealth.HealthPoints--;
                 }
+                
 
                 // Update the health bar fill amount
-                image.fillAmount = (float)currentHealth.HealthPoints / 100f;
+                image.fillAmount = currentHealth.HealthPoints / 100f;
 
-                Debug.Log("Player found: " + currentPlayer.name);
+                // (float)currentPlayer.GetComponent<PlayerController>().Avatar.GetComponent<Health>().HealthPoints
+
+                // image.fillAmount = (float)currentHealth.HealthPoints / 100f;
+
+                //Debug.Log("Player found: " + currentPlayer.name);
             }
             else
             {
-                Debug.LogError("Health component not found on player!");
+                //Debug.LogError("Health component not found on player!");
             }
         }
         else
         {
-            Debug.LogError("Player not found!");
+            //Debug.LogError("Player not found!");
         }
     }
 }
